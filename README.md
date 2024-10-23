@@ -16,5 +16,6 @@ Step 2: Trained LLM that provides guidance for herb preperation and intake.
 - ChatGPT
 
 **Log**
-
+- created general browser interface set up, multiselect filter and search bar with streamlit
+- created multiselect filter for individual words...
 
