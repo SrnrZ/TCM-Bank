@@ -3,6 +3,7 @@
 **Project Aim**
 
 Step 1: Keyword search for traditional chinese medicine herbs via browser interface.
+
 Step 2: Trained LLM that provides guidance for herb preperation and intake.
 
 **Data Sources**
